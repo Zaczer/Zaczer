@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Zaczer/Zaczer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Heyup
+This is my github ig. Working with https://github.com/KingdomsCrusade.
+## Stats:  
+![](https://komarev.com/ghpvc/?username=Zaczer&color=orange&style=plastic)  
+[![Zaczer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaczer&theme=dark)](https://github.com/Zaczer)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaczer&layout=compact&theme=dark)](https://github.com/Zaczer)
