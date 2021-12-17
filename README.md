@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 This is my github ig. Working with https://github.com/KingdomsCrusade.
 ## Stats:  
 ![](https://komarev.com/ghpvc/?username=Zaczer&color=orange&style=flat-square)  
-[![Zaczer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaczer&count_private=true&theme=vision-friendly-dark)
+[![Zaczer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaczer&count_private=true&theme=vision-friendly-dark)](https://github.com/Zaczer)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaczer&layout=compact&count_private=true&theme=vision-friendly-dark)](https://github.com/Zaczer)
 
 
