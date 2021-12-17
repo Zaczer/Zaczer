@@ -19,5 +19,4 @@ This is my github ig. Working with https://github.com/KingdomsCrusade.
 ## Stats:  
 ![](https://komarev.com/ghpvc/?username=Zaczer&color=orange&style=flat-square)  
 [![Zaczer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaczer&count_private=true&theme=vision-friendly-dark)](https://github.com/Zaczer)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaczer?orgs=KingdomsCrusade&count_private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/Zaczer)
-[![Stats](https://github-readme-stats.vercel.app/api/?username=Zaczer?orgs=KingdomsCrusade)](https://github.com/Zaczer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaczer&count_private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/Zaczer)
